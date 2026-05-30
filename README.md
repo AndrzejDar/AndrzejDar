@@ -37,7 +37,7 @@ no `http` module. Built to understand the wire format end to end.
 - **Quality** — Cypress · React Testing Library · a11y (WCAG, ARIA) · Core Web Vitals · react-i18next
 - **Backend** — Node.js · REST · C# / .NET 8
 - **Infra** — AWS · Docker · CI/CD
-- **Cross-platform leadership** — architecture decisions for Flutter and native Kotlin Android codebases
+- **Cross-platform leadership** — architecture and dedesign decisions for multiplatform (Flutter and Kotlin Android) codebases
 
 ## Elsewhere
 
