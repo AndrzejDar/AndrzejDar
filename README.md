@@ -8,10 +8,7 @@ The web app is React, TypeScript, Node.js with cross-stack contribution to
 C# / .NET 8; the mobile stack is Flutter and native Kotlin Android; a Kotlin-based
 terminal app rounds out the platform.
 
-Recent focus: frontend performance on high-volume data views — list virtualization,
-React Query caching, concurrent transitions, route-level code-splitting, partnered
-backend pagination. Drove roughly 60% reduction in rendering time and 35% reduction
-in API calls on the core dashboards module.
+Recent focus: frontend performance on high-volume data views.
 
 Outside the day job I keep a small lab of side projects on things that do not fit
 a product roadmap — implementing protocols from scratch, tiny LLM/RAG experiments,
