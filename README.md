@@ -4,9 +4,8 @@ Senior Software Engineer and Frontend Team Lead, based in Warsaw.
 
 Currently lead a small cross-platform team at P2P2 building a workforce-management
 SaaS used by 10,000+ users at enterprise clients including DB Schenker and Auchan.
-The platform spans a React/TypeScript web app (with Node.js and C# / .NET 8
-backend services), a Flutter mobile app, a native Kotlin Android app, and a
-Kotlin-based handheld terminal.
+The platform spans a React/TypeScript web app (with C# / .NET 8
+backend services), a Flutter mobile app, a native Kotlin Android app, and a Kotlin-based handheld terminal.
 
 Recent focus: frontend performance on high-volume data views.
 
