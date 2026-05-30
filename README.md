@@ -23,7 +23,7 @@ neural-network simulations, and real-time multiplayer architectures.
 Next.js storefront for handmade leather goods. [Live demo](https://next-leather-shop.vercel.app).
 
 **[Renovation API](https://github.com/AndrzejDar/renovation)**
-.NET 8 API for a renovation-services platform. Companion frontend in
+.NET 7 API for a renovation-services platform. Companion frontend in
 [renovation.FE](https://github.com/AndrzejDar/renovation.FE) (Next.js + shadcn/ui).
 
 **[WebSocket Multiplayer](https://github.com/AndrzejDar/webSocketMultiplayer)**
